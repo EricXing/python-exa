@@ -1,0 +1,7 @@
+This project is created to keep track of my study of python language. Things included in this project are exercises taken while learning something by my self, examples of books I read, maybe some related document translations.
+
+directories
+exercises:
+	exerciese taken by myself
+python_for_unix_and_linux_system_administration:
+	examples of the book python for unix and linux system administration. Of course not all of the examples in the book.
