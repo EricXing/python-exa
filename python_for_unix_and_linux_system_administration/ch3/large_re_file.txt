@@ -1,0 +1,18 @@
+rly every system administrator has to deal with text whether it is in the form of
+logfiles, application data, XML, HTML, configuration files, or the output of some
+command. Often, utilities like grep and awk are all you need, but sometimes a tool that
+is more expressive and elegant is needed to tackle complex problems. When you need
+to create files with data extracted from other files, redirecting text from the output of
+a process (again, grep and awk come to mind) to a file is often good enough. But there
+are also times when a tool that is more easily extensible is better-suited for the job.
+As we explained in the ¡°Introduction,¡± our experience has shown that that Python
+qualifies as more elegant, expressive, and extensible than Perl, Bash, or other languages
+we have used for programming. For more discussion of why we value Python more
+highly than Perl or Bash (and you could make application to sed and awk), see Chap-
+ter 1. Python¡¯s standard library, language features, and built-in types are powerful tools
+for reading text files, manipulating text, and extracting information from text files.
+Python and its standard library contain a wealth of flexibility and functionality for text
+processing using the string type, the file type, and the regular expression module. A
+recent addition to the standard library, ElementTree, is immensely helpful when you
+need to work with XML. In this chapter, we will show you how to effectively use the
+standard library and built-in components that help with processing text
