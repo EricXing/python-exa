@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/2000/svg"
+         xmlns:ns4="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns3="http://www.w3.org/1999/xhtml"
+         xmlns:db="http://docbook.org/ns/docbook">
+    <title>实验 1</title>
+	<subtitle>
+		定义源和目标
+	</subtitle>
+
+    <section>
+      <title>实验概览</title>
+
+      <para>学生可以在这个实验的练习中学到从关系数据库表中导入元数据来定义源和目标。</para>
+	  <simplesect>
+		<title>
+			目标
+		<title>
+		<para>
+			完成这个实验后，学生应该能够：
+			<listitem>启动PowerCenter Designer</listitem>
+			<listitem>打开文件夹</listitem>
+			<listitem>导入关系型源定义</listitem>
+			<listitem>创建元数据扩展(extensions)</listitem>
+			<listitem>导入关系型目标定义</listitem>
+			<listitem>保存库</listitem>
+		</para>
+	  </simplesect>
+	  <simplesect>
+		<title>持续时间</title>
+		<para>这个实验大约需要15分钟。</para>
+	  </simplesect>
+    </section>
+	
+	<section>
+		<title>练习</title>
+		<simplesect>
+			<title>练习1：导入源方案</title>
+			<para>这个实验带领学生根据EMPLOYEE表创建源定义。</para>
+		</simplesect>
+	</section>
+
+    <xi:include href="included_section.xml" />
+  </chapter>
