@@ -2,7 +2,8 @@
 <book version="5.0" xmlns="http://docbook.org/ns/docbook"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xi="http://www.w3.org/2001/XInclude"
-      xmlns:db="http://docbook.org/ns/docbook">
+      xmlns:db="http://docbook.org/ns/docbook"
+      xml:lang="zh_cn">
   <info>
     <title>PowerCenter 7 Basics</title>
 	<subtitle>Lab Guide</subtitle>

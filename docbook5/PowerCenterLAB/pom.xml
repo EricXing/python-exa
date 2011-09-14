@@ -44,8 +44,6 @@
         </executions>
         <configuration>
           <!-- shared configuration -->
-	  <bodyFontFamily>simsun</bodyFontFamily>
-	  <titleFontFamily>simhei</titleFontFamily>
 	  <fonts>
 	    <font>
 	      <name>simsun</name>
@@ -61,6 +59,7 @@
 	      <embedFile>${basedir}/src/fonts/simhei.ttf</embedFile>
 	      <metricsFile>${basedir}/src/fonts/simhei.xml</metricsFile>
 	    </font>
+            
 	  </fonts>
           <generatedSourceDirectory>${project.build.directory}/docbkx/generated</generatedSourceDirectory>
           <xincludeSupported>true</xincludeSupported>
