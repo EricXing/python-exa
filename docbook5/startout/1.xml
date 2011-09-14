@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book xmlns="http://docbook.org/ns/docbook" version="5.0">
+  <part>
+    <title>
+      my first part of my book
+    </title>
+    
+    <chapter>
+      <title>
+	my first chapter of my first part of my book
+      </title>
+      
+      <para>
+	wang xing long
+      </para>
+
+      <para>
+	Chinese words
+	seconde paragraph
+      </para>
+    </chapter>
+
+    <chapter>
+      <title>
+	my second chapter of my first part of my book
+      </title>
+    </chapter>
+  </part>
+
+  <part>
+    <title>
+      Second part of the book
+    </title>
+
+    <chapter>
+      <title>
+	first chapter
+      </title>
+    </chapter>
+
+    <chapter>
+      <title>
+	Second chapter
+      </title>
+
+      <para>
+	second chapter, first paragraph
+      </para>
+    </chapter>
+  </part>
+</book>
