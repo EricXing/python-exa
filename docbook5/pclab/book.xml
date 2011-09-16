@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book version="5.0" xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:db="http://docbook.org/ns/docbook"
+      xml:lang="zh_cn">
+  <info>
+    <title>PowerCenter 7 Basics</title>
+	<subtitle>Lab Guide</subtitle>
+	<copyright>
+		<holder>
+			@Informatica Corporation, 2003, 2004, All rights reserved.
+		</holder>
+	</copyright>
+	<releaseinfo>
+		Duplication prohibited without written consent from Informatica Corporation.
+	</releaseinfo>
+  </info>
+  
+  <preface>
+	<title>说明</title>
+	<para>本书是对PowerCenterLAB.pdf的翻译说明。PowerCenterLAB.pdf中的内容是基于PowerCenter 7，进行实验的环境是PowerCenter 8.6.1，因此书中内容基于原电子书，但是有所更改。</para>
+	<para>
+		书中内容仅作学习用途，请勿传播。翻译能力有限，请勘误。
+	</para>
+  </preface>
+
+  <chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/2000/svg"
+         xmlns:ns4="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns3="http://www.w3.org/1999/xhtml"
+         xmlns:db="http://docbook.org/ns/docbook">
+    <title>实验 1</title>
+	<subtitle>
+		定义源和目标
+	</subtitle>
+
+    <section>
+      <title>实验概览</title>
+
+      <para>学生可以在这个实验的练习中学到从关系数据库表中导入元数据来定义源和目标。</para>
+	  <simplesect>
+		<title>
+			目标
+		</title>
+		<para>
+			完成这个实验后，学生应该能够：
+			<itemizedlist mark='bullet'>
+			  <listitem>启动PowerCenter Designer</listitem>
+			  <listitem>打开文件夹</listitem>
+			  <listitem>导入关系型源定义</listitem>
+			  <listitem>创建元数据扩展(extensions)</listitem>
+			  <listitem>导入关系型目标定义</listitem>
+			  <listitem>保存库</listitem>
+			</itemizedlist>
+		</para>
+	  </simplesect>
+	  <simplesect>
+		<title>持续时间</title>
+		<para>这个实验大约需要15分钟。</para>
+	  </simplesect>
+    </section>
+	
+	<section>
+		<title>练习</title>
+		<simplesect>
+			<title>练习1：导入源方案</title>
+			<para>这个实验带领学生根据EMPLOYEE表创建源定义。</para>
+		</simplesect>
+	</section>
+
+    <!--<xi:include href="included_section.xml" />-->
+  </chapter>
+</book>
